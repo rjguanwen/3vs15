@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25b7d4a3-c462-40bc-b2a0-09605bd38456" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/3vs15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Box.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChessBoard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatusPanel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/globalVar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/era_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/era_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/foe_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logShow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.py" afterDir="false" />
+    <list default="true" id="25b7d4a3-c462-40bc-b2a0-09605bd38456" name="更改" comment="ico 文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessBoard.py" beforeDir="false" afterPath="$PROJECT_DIR$/ChessBoard.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rjguanwen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:rjguanwen/3vs15.git&quot;,
+    &quot;accountId&quot;: &quot;5413be46-3f2b-4746-ae92-f3c56f0b4a85&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -56,29 +54,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Box.executor": "Run",
-    "Python.ChessBoard.executor": "Run",
-    "Python.circle_image (1).executor": "Run",
-    "Python.circle_image.executor": "Run",
-    "Python.cirle_image.executor": "Run",
-    "Python.styles.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/workspaces/python2025/3vs15/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Box.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ChessBoard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.circle_image (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.circle_image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cirle_image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.styles.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspaces/python2025/3vs15/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspaces\python2025\3vs15\images" />
@@ -179,12 +177,45 @@
       <updated>1761894517898</updated>
       <workItem from="1761895023138" duration="34924000" />
       <workItem from="1762477226940" duration="9115000" />
-      <workItem from="1762739285176" duration="36582000" />
+      <workItem from="1762739285176" duration="39045000" />
+      <workItem from="1763125211263" duration="622000" />
+      <workItem from="1763454504893" duration="84000" />
     </task>
+    <task id="LOCAL-00001" summary="初始版本">
+      <option name="closed" value="true" />
+      <created>1762932057997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762932057997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加 README.md">
+      <option name="closed" value="true" />
+      <created>1762937605530</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762937605530</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ico 文件">
+      <option name="closed" value="true" />
+      <created>1762937633838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762937633838</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始版本" />
+    <MESSAGE value="增加 README.md" />
+    <MESSAGE value="ico 文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="ico 文件" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/3vs15$styles.coverage" NAME="styles 覆盖结果" MODIFIED="1762137957426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

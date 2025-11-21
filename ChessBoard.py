@@ -349,7 +349,6 @@ class ChessBoard(QMainWindow):
         :return:
         """
         self.logger.info("ChessBoard -- foe_clicked - start")
-        # TODO: 敌人被点击后动作
         if GV.get_value(constants.GS_CURRENT_USER) == constants.PLAYER_FOE:
             # 清理可能存在的选中状态
             self.clear_box_checked_status()
